@@ -1,2 +1,2 @@
 # Portfolio Websites
-The following is a website portfolio showcasing my skills with HTML, CSS, and Javascript.
+The following is a mock website portfolio showcasing my skills with HTML, CSS, and Javascript.
